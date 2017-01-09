@@ -5,6 +5,16 @@
   - [Version1](#version1)
 
 ##Analysis
+    
+    - Things is vibrate  => isVibrate();
+    - Things will range from dddd to dddd. => setYearRange()
+    - Things will close after finish => setCloseOnSingleTabDay(isCloseOnSingleTabDay())
+    - Things will show => show()
+
+##Problem
+
+    - Check permision : VIBRATE (On Android 6.0)
+    - Customize FragmentActitivity into Activity => We need to convert version2
 
 ##Version1
 <p align="center">

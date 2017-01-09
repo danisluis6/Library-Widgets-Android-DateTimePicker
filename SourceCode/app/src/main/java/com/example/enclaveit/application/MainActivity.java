@@ -1,5 +1,6 @@
-package com.fourmob.datetimepicker.sample;
+package com.example.enclaveit.application;
 
+import android.app.Activity;
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 import android.view.View;
@@ -23,6 +24,7 @@ public class MainActivity extends FragmentActivity implements OnDateSetListener,
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
 
         final Calendar calendar = Calendar.getInstance();
 
@@ -82,5 +84,9 @@ public class MainActivity extends FragmentActivity implements OnDateSetListener,
     @Override
     public void onTimeSet(RadialPickerLayout view, int hourOfDay, int minute) {
         Toast.makeText(MainActivity.this, "new time:" + hourOfDay + "-" + minute, Toast.LENGTH_LONG).show();
+    }
+
+    private boolean checkPermission(){
+        return false;
     }
 }
