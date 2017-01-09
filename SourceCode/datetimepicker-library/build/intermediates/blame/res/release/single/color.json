@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/enclaveit/Desktop/Library-Widgets-Android-DateTimePicker/SourceCode/datetimepicker-library/build/intermediates/res/merged/release/color/done_text_color.xml",
+        "source": "/home/enclaveit/Desktop/Library-Widgets-Android-DateTimePicker/SourceCode/datetimepicker-library/res/color/done_text_color.xml"
+    },
+    {
+        "merged": "/home/enclaveit/Desktop/Library-Widgets-Android-DateTimePicker/SourceCode/datetimepicker-library/build/intermediates/res/merged/release/color/date_picker_selector.xml",
+        "source": "/home/enclaveit/Desktop/Library-Widgets-Android-DateTimePicker/SourceCode/datetimepicker-library/res/color/date_picker_selector.xml"
+    },
+    {
+        "merged": "/home/enclaveit/Desktop/Library-Widgets-Android-DateTimePicker/SourceCode/datetimepicker-library/build/intermediates/res/merged/release/color/date_picker_year_selector.xml",
+        "source": "/home/enclaveit/Desktop/Library-Widgets-Android-DateTimePicker/SourceCode/datetimepicker-library/res/color/date_picker_year_selector.xml"
+    }
+]
