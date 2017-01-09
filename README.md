@@ -18,7 +18,18 @@
 
 ##Version1
 <p align="center">
-  <img src="https://github.com/danisluis6/Researching-Widget-GridView/blob/version2/GridView/2.png">
+  <img src="https://github.com/danisluis6/Library-Widgets-Android-DateTimePicker/blob/version1/SourceCode/1.png">
 </p>
 
+<p align="center">
+  <img src="https://github.com/danisluis6/Library-Widgets-Android-DateTimePicker/blob/version1/SourceCode/2.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/danisluis6/Library-Widgets-Android-DateTimePicker/blob/version1/SourceCode/3.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/danisluis6/Library-Widgets-Android-DateTimePicker/blob/version1/SourceCode/4.png">
+</p>
 
