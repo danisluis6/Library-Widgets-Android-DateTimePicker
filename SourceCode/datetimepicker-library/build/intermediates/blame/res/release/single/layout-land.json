@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/enclaveit/Desktop/Library-Widgets-Android-DateTimePicker/SourceCode/datetimepicker-library/build/intermediates/res/merged/release/layout-land/date_picker_dialog.xml",
+        "source": "/home/enclaveit/Desktop/Library-Widgets-Android-DateTimePicker/SourceCode/datetimepicker-library/res/layout-land/date_picker_dialog.xml"
+    },
+    {
+        "merged": "/home/enclaveit/Desktop/Library-Widgets-Android-DateTimePicker/SourceCode/datetimepicker-library/build/intermediates/res/merged/release/layout-land/time_picker_dialog.xml",
+        "source": "/home/enclaveit/Desktop/Library-Widgets-Android-DateTimePicker/SourceCode/datetimepicker-library/res/layout-land/time_picker_dialog.xml"
+    }
+]
